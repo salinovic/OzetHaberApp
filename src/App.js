@@ -8,8 +8,8 @@ import {
   TextInput,
   ScrollView,
 } from 'react-native';
-import PatikaStore from './components/PatikaStore';
-import PatikaStore_data from './PatikaStore_data.json';
+import PatikaStore from './components/ProductCard';
+import PatikaStore_data from './product_data.json';
 
 //Uygulama içeriği
 const App = () => {
